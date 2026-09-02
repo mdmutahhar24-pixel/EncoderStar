@@ -161,6 +161,25 @@ button.secondary {
   margin-top: 0.5rem;
 }
 
+.guide-card {
+  background: #ffffff;
+  border-left: 4px solid var(--primary);
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.guide-card h4 {
+  margin: 0 0 0.5rem 0;
+  color: var(--primary);
+}
+
+.guide-card p {
+  margin: 0;
+  color: var(--text);
+  line-height: 1.6;
+}
+
 @media (max-width: 900px) {
   .two-col, .three-col {
     grid-template-columns: 1fr;
