@@ -1,5 +1,5 @@
 # EncoderStar
-
+<img width="1917" height="861" alt="Screenshot 2026-09-01 131810" src="https://github.com/user-attachments/assets/7fbc4ceb-0e83-41c5-8ed4-2a2d229d7e95" />
 ## What is EncoderStar?
 EncoderStar is a website where you can **Cipher**, **Decipher**, **Encode**, and **Decode** messages. (Before you ask, yes, Ciphering and Encoding are two different things)
 
